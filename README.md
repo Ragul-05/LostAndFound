@@ -1469,8 +1469,4 @@ Every API error returns the same JSON envelope:
 
 ---
 
-*© 2026 Lost & Found — AI-Powered Asset Lifecycle Management System*
-#   L o s e - A n d - F o u n d  
- #   L o s t - A n d - F o u n d -  
- #   L o s t A n d F o u n d  
- 
+*© 2026 Lost & Found — Lost and Found*
